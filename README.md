@@ -11,5 +11,5 @@ Project developed applying DOM Events case study and Bulma framework elements
 ---
 
 <p align="center">
-  <img src="./icons/pricingPanel.gif">
+  <img src="./scoreKeeper.gif">
 </p>
